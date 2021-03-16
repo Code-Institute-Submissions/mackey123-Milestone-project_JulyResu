@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300,&display=swap');
+
+body {
+    color: cadetblue;
+}
+
+h1{
+    color: rgb(2, 85, 85);
+    width: 100%;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+li a h2{
+    background-color: rgb(180, 180, 180);
+}
+
+
+/* socials */
+.social-heading{
+    width: 100%;
+     font-size: 20px;
+     margin: 5px;
+     padding: 5px;
+    background-color: rgb(180, 180, 180);
+}
+
+
+.social{
+    font-size: 40px;
+}
+/* work styles */
+
+.work-style{
+    text-align: center;
+}
+
+ul li{
+    text-align: center;
+}
+
+li h3 h4{
+    padding: 0;
+}
+
+
+
+
+
+/* Styles for contact form */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: rgb(184, 184, 184);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #8d8d8d;
+}
+
+/* Style the container/contact section */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+  
+}
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+  
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+
+/* images styles */
+.avatar {  
+  vertical-align: middle;
+  width: 250px;
+  height: 300px;
+  border-radius: 50%;
+  padding: 1px;
+  border: 5px solid #393a3b;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  
+}
