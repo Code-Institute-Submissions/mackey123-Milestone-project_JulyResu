@@ -1,19 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300,&display=swap');
 
+
+
+
+
+/* Main Html index */
+
+.nav{
+    width: 100%;
+    display: left;
+}
+
+.nav-item1{
+   width: 100%;
+}
+
+
 body {
     color: cadetblue;
+    background-color: rgb(241, 241, 241);
+    
 }
 
 h1{
-    color: rgb(2, 85, 85);
+    color: rgb(26, 121, 121);
     width: 100%;
     border: 0;
     padding: 0;
     margin: 0;
+    
 }
 
 li a h2{
-    background-color: rgb(180, 180, 180);
+    background-color: rgb(226, 219, 219);
+    color: cadetblue;
+    font-size: 40px
+    
+}
+
+
+
+li a h2:hover{
+    color: rgb(116, 189, 192);
+    background-color: rgb(241, 232, 232);
+    
+    
 }
 
 
@@ -29,6 +60,7 @@ li a h2{
 
 .social{
     font-size: 40px;
+    background-color: #304c53;
 }
 /* work styles */
 
@@ -121,3 +153,20 @@ input[type=submit]:hover {
   margin-bottom: 1%;
   
 }
+
+/* my info styles */
+
+.me{
+    width: 100%;
+    background-color: rgb(236, 233, 233);
+    margin: 5px;
+    padding: 2px;
+  }
+
+
+
+ /* contact styles */
+ .body-contact{
+     background-color: #3f656e;     
+
+ }
