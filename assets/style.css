@@ -9,8 +9,15 @@
 
 .nav-item1{
    width: 100%;
+  
 }
 
+
+ul li a{
+    font-size: 40px;
+    letter-spacing: 20%;
+    
+}
 
 body {
     color: cadetblue;
@@ -24,6 +31,7 @@ body {
 
  h3 {
      background-color: rgb(241, 241, 241);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
 
 h1{
@@ -33,6 +41,11 @@ h1{
     padding: 0;
     margin: 0;
     
+}
+
+.index{
+    margin: 5px;
+    padding: 5px;
 }
 
 li a h2{
@@ -47,9 +60,18 @@ li a h2{
 li a h2:hover{
     color: rgb(116, 189, 192);
     background-color: rgb(241, 232, 232);
-    
-    
 }
+
+.contact{
+    text-align: center;
+    color: azure;
+    font-size: 50px;
+}
+.contact2{
+     text-align: center;
+     color: rgb(232, 245, 245);
+}
+
 
 
 /* socials */
@@ -59,6 +81,7 @@ li a h2:hover{
      margin: 5px;
      padding: 5px;
     background-color: rgb(230, 229, 229);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -91,13 +114,22 @@ li a h2:hover{
  
 
 .cv:hover{
-    color: rgb(0, 82, 82);
+    color: rgb(235, 190, 174);
     text-decoration: none;
-    background-color: rgb(235, 190, 174);
+    
 }
 
-
 /* work styles */
+
+#cv4{
+   color: cadetblue;
+   text-decoration: none;
+}
+
+#cv4:hover{
+    background-color: rgb(235, 190, 174);
+    text-decoration: wavy;
+}
 
 .work-style{
     text-align: center;
@@ -111,6 +143,14 @@ li h3 h4{
     padding: 0;
 }
 
+ li{
+ font-size: 20px;
+}
+
+.work-heading{
+    color: rgb(28, 116, 116);
+}
+
 /* Styles for contact form */
 
 * {
@@ -118,6 +158,7 @@ li h3 h4{
 }
 
 /* Style inputs */
+
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
@@ -182,29 +223,53 @@ input[type=submit]:hover {
   border: 5px solid #393a3b;
   margin-top: 1%;
   margin-bottom: 1%;
-  float: left;
   text-align: center;
   background-color: #3f656e;
   
 }
 
+.menu{
+    text-align: center;
+}
+
+.footer-back{
+    text-align: center;
+    background-color: #89b4bd;
+   
+}
+
+
 /* my info styles */
 
 .me{
+    color: rgb(28, 116, 116);
     width: 100%;
-    background-color: rgb(236, 233, 233);
+    background-color: rgb(240, 239, 239);
     margin: 5px;
     padding: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
   }
 
-    div h2 p{
-        font-size: 30%;
+    .row  {
+        font-size: 18px;
+       
     }
 
     #cv3{
         float: right;
     }
-        
+
+    .info-back{
+        background-color: rgb(218, 229, 233);
+    }
+
+    .container{
+    color: #3f656e;
+    padding: 5px;
+    }
+
+    
 
 
  /* contact styles */
@@ -212,5 +277,8 @@ input[type=submit]:hover {
      background-color: #3f656e;   
 
  }
+
+
+ 
 
  
