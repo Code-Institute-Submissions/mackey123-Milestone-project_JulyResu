@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300,&display=swap');
 
-
-
-
-
 /* Main Html index */
 
 .nav{
@@ -19,7 +15,12 @@
 body {
     color: cadetblue;
     
+    
 }
+
+ .home-back{
+     background-color: #3f656e;
+ }
 
  h3 {
      background-color: rgb(241, 241, 241);
@@ -57,7 +58,7 @@ li a h2:hover{
      font-size: 20px;
      margin: 5px;
      padding: 5px;
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(230, 229, 229);
 }
 
 
@@ -69,15 +70,30 @@ li a h2:hover{
  ul li a{
     color: cadetblue;
     height: 50%;
+
  }
 
 .cv{
-    color: darkcyan;
+    color: cadetblue;
+    text-decoration: none;
+    
 }
 
-.cv:hover{
-    color: rgb(0, 156, 156);
+ a h2 .cv{
     text-decoration: none;
+    float: right;
+    margin: 5px;
+    padding: 5px;
+    text-align: right;
+
+}
+
+ 
+
+.cv:hover{
+    color: rgb(0, 82, 82);
+    text-decoration: none;
+    background-color: rgb(235, 190, 174);
 }
 
 
@@ -94,10 +110,6 @@ ul li{
 li h3 h4{
     padding: 0;
 }
-
-
-
-
 
 /* Styles for contact form */
 
@@ -170,6 +182,9 @@ input[type=submit]:hover {
   border: 5px solid #393a3b;
   margin-top: 1%;
   margin-bottom: 1%;
+  float: left;
+  text-align: center;
+  background-color: #3f656e;
   
 }
 
@@ -186,9 +201,16 @@ input[type=submit]:hover {
         font-size: 30%;
     }
 
+    #cv3{
+        float: right;
+    }
+        
+
 
  /* contact styles */
  .body-contact{
-     background-color: #3f656e;     
+     background-color: #3f656e;   
 
  }
+
+ 
