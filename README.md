@@ -1,45 +1,66 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Portfolio
 
-Welcome USER_NAME,
+## Welcome to my portfoilio!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+In this portfolio I wish to detail all my skills and let a future employer get to know me.
+I would Additionally like to use it to showcase some of my skills and talents and also a history of my work and education.
+I would aslo like to use this portfoilio to show to future developers or musicians. 
 
-## Gitpod Reminders
+In this portfolio lastly I wish to showcase my devlopment skills to any employer.
+The website is only made in HTML and CSS at the moment but as my skills get better I wish to add more details and new features!
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
+# User stories
 
-Another blue button should appear to click: *Open Browser*.
+## 1
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+As a employer I would wish to be able to navigate around a portfolio eassily and without pain,
+I want to be able to see a site that is pleasing on the eyes from the get go this would allow me to judge if they have a good sense Of development.
+I would look to see that there code is well structured and well laid out also commented out code where is neccassary as this allowes me to see how they would implement this working for me.
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+## 2
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+As a Devloper I am looking to find what I need in this site easily, I want to be able to navigate without pain and be able to see what the person can code given two languages.
+As a User I want to be able to retract the information from a few pages worth of produced code so that I can decide if this persons skills are credible or if I would like to work with them.
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+# 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+# Features
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+# Technologies used
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Of course I have ran into many problems as any developer would mainly due to my css at the start which was not been applied, to deal with this I had to start a new project as I could not locate the problem after many trying 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
 
-Happy coding!
+
+
+# Testing
+
+During the course of creating this project I had to test very often.
+My most often and most used format of testing was the inspect and lighthouse from google tools
+
+
+
+# Deployment
+xzxzx
+
+
+
+# Credits
+
+## Contents 
+
+## Media
+
+## Acknowledgements
+I would like to thank firstly the code institute tutors, student care and my mentor Dick! Without them this would not have been possible so many thanks
+
+I
+
