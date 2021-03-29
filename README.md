@@ -13,29 +13,108 @@ The website is only made in HTML and CSS at the moment but as my skills get bett
 
 # User stories
 
-## 1
+##  First Time User goals
 
-As a employer I would wish to be able to navigate around a portfolio eassily and without pain,
-I want to be able to see a site that is pleasing on the eyes from the get go this would allow me to judge if they have a good sense Of development.
-I would look to see that there code is well structured and well laid out also commented out code where is neccassary as this allowes me to see how they would implement this working for me.
+1.  As a first time user I want to know what I am looking at as soon as I look at the project.
 
+2.  I want to be able to easily acces any more information on them through links.
 
-## 2
-
-As a Devloper I am looking to find what I need in this site easily, I want to be able to navigate without pain and be able to see what the person can code given two languages.
-As a User I want to be able to retract the information from a few pages worth of produced code so that I can decide if this persons skills are credible or if I would like to work with them.
+3.  As a first time user I want to be able to navigate and back out of this site easily and without delay, I want to be taken to a new page when I open a link.
 
 
+## Return user goals
 
-# 
+1.  As a return user I want to be able to contact the maker of the website or project.
+
+2.  As a return user I want to be able to to find more information about the person or organisation.
+
+
+
+## Frequent user goals
+
+1.  As a frequent user I want to be able to see any changes made or new additions.
+
+2.  As a frequent user I want to be able to request to get notifications if there is news or new deals.
+
+3.  As a frequent user I want to be able to give feeback and submit my opinion to the makers or person who made the site.
+
+
+
+# Design
+
+## Imagery
+
+
+I have used one image a avatar of myself which the layout is attributed to [ w33 schools ](https://www.w3schools.com/howto/howto_css_image_avatar.asp)
+
+## Typography
+
+I have mainly used Verdana, Geneva, Tahoma, sans-serif for the typography of this project with oswald as a back up should it not register.
+
+## Color Design
+
+I have used mainly Cadet blue with Persian green using variations of both throughout and some white.
+
+## Design prep
+
+I have drawn all my ideas for layout which I had already had in my last project but ran into a css problem so had to restart.
+
+
 
 # Features
+
+Is responsive on all devices and contains responsive code.
+
+Has a navbar which stays with the user throughout page selection.
+
+Includes a CV download button that brings the user to a new page 
+
+# Future features
+
+I am hoping to add animations and more components once I have completed more languages!
+
+
+# Code languages used 
+
+1. HTML
+
+2. CSS
 
 
 
 # Technologies used
 
-Of course I have ran into many problems as any developer would mainly due to my css at the start which was not been applied, to deal with this I had to start a new project as I could not locate the problem after many trying 
+
+# Frameworks, Libraries & Programs Used
+
+## [ w33 schools ](https://www.w3schools.com/)
+
+Used for its sample avatar code for my image on the about section and its sample contact form html.
+
+## [ Bootstrap ](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+Bootsrap used for its nav bar and div shadow class to add shading to elements.
+
+## [ Font Awesome ](https://fontawesome.com/icons?d=gallery&p=2)
+
+Used icons for navbar and social links also on the cv download link.
+
+## [ Google fonts ](https://fonts.google.com/specimen/Roboto+Slab?preview.text_type=custom)
+
+Used google fonts for the Roboto and verdanna fonts.
+
+## [ W3C Validator ](https://validator.w3.org/)
+
+Used to validate the CSS and HTML in my project.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -43,8 +122,103 @@ Of course I have ran into many problems as any developer would mainly due to my 
 
 # Testing
 
+## Testing user stories 
+
+
+##  First Time User goals
+
+1.     As a first time user I want to know what I am looking at as soon as I look at the project.
+
+a.
+Upon entering the project there is the word "portfolio" on the home page.
+
+b.
+The title of the project is portfolio.
+
+c.
+Upon the home page you can see the contact details which jump out in the home page
+
+2.     I want to be able to easily acces any more information on them through links.
+
+a.
+When you are on the home page there is a link to the CV in the bottom right corner.
+
+b.
+There is also all four links to the persons socials which can be located on the bottom left of the home page.
+
+
+
+3.     As a first time user I want to be able to navigate and back out of this site easily and without delay, I want to be taken to a new page when I open a link.
+
+a.
+When you open any link throughout the portfoilio you will be taken to a new page.
+
+b.
+The home page has a navbar which stays with the user whenever they click on a new page 
+
+c.
+The navbars stand out well against the background and are easily seen.
+
+
+
+## Return user goals
+
+1.  As a return user I want to be able to contact the maker of the website or project.
+
+a.
+
+b.
+
+c.
+
+2.  As a return user I want to be able to to find more information about the person or organisation.
+
+a.
+
+b.
+
+c.
+
+## Frequent user goals
+
+1.  As a frequent user I want to be able to see any changes made or new additions.
+
+a.
+
+b.
+
+c.
+
+2.  As a frequent user I want to be able to request to get notifications if there is news or new deals.
+
+a.
+
+b.
+
+c.
+
+3.  As a frequent user I want to be able to give feeback and submit my opinion to the makers or person who made the site.
+
+a.
+
+b.
+
+c.
+
+
+
+## Testing code
+
 During the course of creating this project I had to test very often.
-My most often and most used format of testing was the inspect and lighthouse from google tools
+My most often and most used format of testing was the inspect and lighthouse dev from google tools.
+
+I had to run every bit of code I made through the w33 Validator I would do this in the following way
+
+a.
+
+b.
+
+c.
 
 
 
@@ -54,13 +228,32 @@ xzxzx
 
 
 # Credits
+## Content 
 
-## Contents 
+ 
 
-## Media
+ Copied the layout for the contact form for my "contact page"
+  (https://www.w3schools.com/howto/howto_css_contact_form.asp)
+
+ Copied the layout for the avatar image used in my "about page"
+ (https://www.w3schools.com/howto/howto_css_image_avatar.asp)
+
+Fisrt used the bootrsap boiler plate along with the neccassary CDN
+Copied the div shading class for my elements throughout the project.
+Used also the layout for my navbars throughout the project and lastly the column nav for my about page.
+
+### [Bootstrap nav](https://getbootstrap.com/docs/4.0/components/navbar/)
+
+### [ Bootstrap shadow ](https://getbootstrap.com/docs/4.1/utilities/shadows/)
+
+### [ Bootstrap nav column](https://getbootstrap.com/docs/4.0/layout/grid/)
+
+
 
 ## Acknowledgements
-I would like to thank firstly the code institute tutors, student care and my mentor Dick! Without them this would not have been possible so many thanks
 
-I
+
+I would like to thank firstly the code institute tutors, student care and my mentor Dick! Last but not least Code institute without them this would not have been possible so many thanks.
+
+
 
