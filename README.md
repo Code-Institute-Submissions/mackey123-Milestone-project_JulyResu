@@ -129,34 +129,34 @@ Used to validate the CSS and HTML in my project.
 
 1.     As a first time user I want to know what I am looking at as soon as I look at the project.
 
-a.
+A.
 Upon entering the project there is the word "portfolio" on the home page.
 
-b.
+B.
 The title of the project is portfolio.
 
-c.
+C.
 Upon the home page you can see the contact details which jump out in the home page
 
 2.     I want to be able to easily acces any more information on them through links.
 
-a.
+A.
 When you are on the home page there is a link to the CV in the bottom right corner.
 
-b.
+B.
 There is also all four links to the persons socials which can be located on the bottom left of the home page.
 
 
 
 3.     As a first time user I want to be able to navigate and back out of this site easily and without delay, I want to be taken to a new page when I open a link.
 
-a.
+A.
 When you open any link throughout the portfoilio you will be taken to a new page.
 
-b.
+B.
 The home page has a navbar which stays with the user whenever they click on a new page 
 
-c.
+C.
 The navbars stand out well against the background and are easily seen.
 
 
@@ -165,19 +165,19 @@ The navbars stand out well against the background and are easily seen.
 
 1.  As a return user I want to be able to contact the maker of the website or project.
 
-a.
+A.   Upon entering the website there is the contact details of the person on the home page 
 
-b.
+B.   There is a whole contact page dedicated to getting in touch with the maker.
 
-c.
+C.   The user is also encouraged to contact the maker through the links to their socials.
 
 2.  As a return user I want to be able to to find more information about the person or organisation.
 
-a.
+a. There is a link to the CV of the person on the home page.
 
-b.
+b.  There is a "About" page dedicated to providing more information to the user.
 
-c.
+c.  There is a image located on the "About" page allowing people to know what the maker looks like.
 
 ## Frequent user goals
 
