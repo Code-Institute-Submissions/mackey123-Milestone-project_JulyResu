@@ -111,21 +111,12 @@ Used to validate the CSS and HTML in my project.
 
 
 
-
-
-
-
-
-
-
-
-
 # Testing
 
 ## Testing user stories 
 
 
-##  First Time User goals
+###  First Time User goals
 
 1.     As a first time user I want to know what I am looking at as soon as I look at the project.
 
@@ -161,49 +152,57 @@ The navbars stand out well against the background and are easily seen.
 
 
 
-## Return user goals
+### Return user goals
 
-1.  As a return user I want to be able to contact the maker of the website or project.
+1.     As a return user I want to be able to contact the maker of the website or project.
+
 
 A.   Upon entering the website there is the contact details of the person on the home page 
 
+
 B.   There is a whole contact page dedicated to getting in touch with the maker.
+
 
 C.   The user is also encouraged to contact the maker through the links to their socials.
 
-2.  As a return user I want to be able to to find more information about the person or organisation.
+
+2.     As a return user I want to be able to to find more information about the person or organisation.
+
 
 a. There is a link to the CV of the person on the home page.
 
+
 b.  There is a "About" page dedicated to providing more information to the user.
+
 
 c.  There is a image located on the "About" page allowing people to know what the maker looks like.
 
+
+
 ## Frequent user goals
 
-1.  As a frequent user I want to be able to see any changes made or new additions.
+1.      As a frequent user I want to be able to see the colors easily from foreground to background.
 
-a.
+a. The home page has a strong persian blue backgrond with the contact details in white to allow it to contast nicely.
 
-b.
+b. The same use of colours is visible throughout the whole project .
 
-c.
+c. When a diffrent shade is needed the current main colurs are altered to be slightly darker or lighter as to not cause any clashes.
 
-2.  As a frequent user I want to be able to request to get notifications if there is news or new deals.
+2.      As a frequent user I want to be taken to a new page when I open a link.
 
-a.
+a. The CV download button on the home page takes the user to a new page
 
-b.
+b. All links to socials open up in a new page using the attribute "_blank".
 
-c.
 
-3.  As a frequent user I want to be able to give feeback and submit my opinion to the makers or person who made the site.
+3.      As a frequent user I want to be able to give feeback and see what new features has been added.
 
-a.
+a. A frequent user would be easily able to see new information in the about section as they would know the layout of the website.
 
-b.
+b. A frequent user would notice any new animations from the home page as they would know the site.
 
-c.
+c. If a frequent user wants to suggest new ideas or features they can contact the maker through many options.
 
 
 
@@ -214,12 +213,50 @@ My most often and most used format of testing was the inspect and lighthouse dev
 
 I had to run every bit of code I made through the w33 Validator I would do this in the following way
 
-a.
+a. First I would copy all the code for the page I am on.
 
-b.
+b. I would then open a W3 Validator.
 
-c.
+c. Copy and the paste the code I had into the direct input.
 
+i. This would give me any errors or code that was invalid.
+
+ii. I would then correct the invalid code and put the code again to make sure there was no errors.
+
+## Corrections made to code through the use of W3 Validator
+
+#### Home page
+### Upon entering my code through the w33 Validator I came back with a error or two sometimes more on every page.
+
+1. My H5 element on line 66 and line 68 could not continue as it cannot be listed as a elemnt of Ul.
+
+2. I had a duplicate Div closing tag on line 85 Which I removed. I also did this with a li elemnt on line 92.
+
+
+
+#### Contact page
+
+1. The a element on line 64 had to be changed to a form so I could use the correct "action" attribute to allow the user to be taken to a new page 
+once they click on the submit button.
+
+2. On line 51 of the contact page I removed a excess h5 elemnt that had no use. Removed a excess closing form tag also.
+
+#### About page
+
+1. On the about page the only error was a bad value for my image tag according to w3 Validator.
+
+#### CSS
+
+
+#### Work History page
+
+
+
+
+
+
+
+This project is responsive on a all types of screens and has been tested for all 
 
 
 # Deployment
