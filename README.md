@@ -247,22 +247,78 @@ once they click on the submit button.
 
 #### CSS
 
+1. Upon entering it into the validator I had to remove two rules as they did not have values that made sense.
+
 
 #### Work History page
 
+1. After entering my code in the validator I had to change the P elemnt from under every h4 tag on the page as it could not be a child of a ul element.
+
+2. I also had to wrap the h4 tags in li elemnts as they could not be children of a ul elemnt.
+
+#### Info pages
+
+1. There was no direct error from the validator for the about page.
+
+#### Contact page 2 
 
 
 
+## Testing site on diffrent devices
 
 
+This project is responsive on a all types of screens and has been tested for all with the use of inspect tools by google and lighthouse.
 
-This project is responsive on a all types of screens and has been tested for all 
+To test its responsiveness I would do it in the following way.
 
+i. First open up Google tools by clicking the three dots in the top right corner of the page.
+
+ii. I would then click on a mobile or tablet device and begin to browse through the website as normal.
+
+iii. I would then repeat this process on all devices on inspect tools and go through the whole site taking part in all the interactions to make sure they performed well.
+
+## Changes made
+
+Following this process the problem that arose was the home page contact details, the email would be out of frame to the right when on a mobile device.
+
+To fix this I changed the font size to a precentage rather then a px value. You can see this on 81 of my style.css page.
+
+## Testing individual features and sections
+
+Some code or features had to be tested quite reguarly to make sure it was always working well.
+
+1.Contact Form
+
+i.
+
+ii.
+
+ii.
+
+2.Image of me on About page
+
+i.
+
+ii.
+
+iii.
+
+3.Navbar and CV download button
+
+i.
+
+ii.
+
+ii.
+
+## Known bugs
 
 # Deployment
-xzxzx
 
 
+## Run code Locally
+
+To run my code locally 
 
 # Credits
 ## Content 
