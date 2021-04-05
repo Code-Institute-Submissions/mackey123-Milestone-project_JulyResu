@@ -49,7 +49,7 @@ I have used one image a avatar of myself which the layout is attributed to [ w33
 
 ## Typography
 
-I have mainly used Verdana, Geneva, Tahoma, sans-serif for the typography of this project with oswald as a back up should it not register.
+I have mainly used Verdana, Geneva, Tahoma, sans-serif and lato for some sub headings for the typography of this project with sans serif as a back up should it not register.
 
 ## Color Design
 
@@ -79,6 +79,8 @@ I am hoping to add animations and more components once I have completed more lan
 1. HTML
 
 2. CSS
+
+3. JAVASCRIPT
 
 
 
@@ -262,9 +264,11 @@ once they click on the submit button.
 
 #### Contact page 2 
 
+1. Stray footer as was not inbody tags added them within to fix this.
 
 
-## Testing site on diffrent devices
+
+## Testing site on different devices
 
 
 This project is responsive on a all types of screens and has been tested for all with the use of inspect tools by google and lighthouse.
@@ -289,29 +293,36 @@ Some code or features had to be tested quite reguarly to make sure it was always
 
 1.Contact Form
 
-i.
+i.The contact form had to be tested after every new feature was added or taken away
 
-ii.
+ii.This involved typin in all the input boxes and clicking enter to make sure everything was required
 
-ii.
+ii.I then had to repeat this on the mobile device and so on using the google inspect tool
 
 2.Image of me on About page
 
-i.
+i.Originally had a suare image in top left but was not responsive
 
-ii.
+ii.Had to add diffrent styles to allow it to sit in the center and to become a avatar image
 
-iii.
+iii.Tested on google tools on all devices to make sure it came out correctly
 
 3.Navbar and CV download button
 
-i.
+i.Had trouble turning it into a button, had to re add the anchor links and placemnet of tags
 
-ii.
+ii.had to add a li tag instead of p as it was not suitable
 
-ii.
+ii.Tested on all devices and clicked link on all to make sure it opened the tab in another page
 
 ## Known bugs
+
+i.  Known bug from start of the project was sometimes having to refresh the page when google dev tools were opened,
+Seems to happen a lot less since new navbar was added but if it happen a simple refresh can fix it.
+
+ii.  Another known bug was the CSS in the project not been applied to the whole project,
+to get around this you have to kill gitpod with the command "pkill-python3" and restart the workspace and code will return to normal.
+
 
 # Deployment
 

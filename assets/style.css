@@ -1,17 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300,&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Roboto:ital,wght@1,300&display=swap');
 
 /* Main Html index */
 
-.nav{
-    width: 100%;
-    
+.navbar-nav{
+    font-size: 30px;
 }
 
-.nav-item1{
-   width: 100%;
-  
+div a{
+    color: cadetblue;
 }
-
 
 ul li a{
     font-size: 40px;
@@ -78,13 +75,16 @@ li a h2:hover{
 
 .contact3{
     list-style: none;
-    font-size: 30px;
+    font-size: 120%;
 }
 
 
 #cvstyles{
     text-decoration: none;
 }
+
+
+
 
 /* socials */
 .social-heading{
@@ -93,13 +93,19 @@ li a h2:hover{
      margin: 5px;
      padding: 5px;
     background-color: rgb(230, 229, 229);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
 }
 
+
+.foot{
+    margin: 5px;
+}
 
 .social{
     font-size: 40px;
     color: cadetblue;
+    
 }
 
  ul li a{
