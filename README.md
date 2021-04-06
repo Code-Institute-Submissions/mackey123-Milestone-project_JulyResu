@@ -291,13 +291,17 @@ To fix this I changed the font size to a precentage rather then a px value. You 
 
 Some code or features had to be tested quite reguarly to make sure it was always working well.
 
+
 1.Contact Form
 
 i.The contact form had to be tested after every new feature was added or taken away
 
 ii.This involved typin in all the input boxes and clicking enter to make sure everything was required
 
-ii.I then had to repeat this on the mobile device and so on using the google inspect tool
+iii.I then had to repeat this on the mobile device and so on using the google inspect tool
+
+
+
 
 2.Image of me on About page
 
@@ -307,13 +311,14 @@ ii.Had to add diffrent styles to allow it to sit in the center and to become a a
 
 iii.Tested on google tools on all devices to make sure it came out correctly
 
+
 3.Navbar and CV download button
 
 i.Had trouble turning it into a button, had to re add the anchor links and placemnet of tags
 
 ii.had to add a li tag instead of p as it was not suitable
 
-ii.Tested on all devices and clicked link on all to make sure it opened the tab in another page
+iii.Tested on all devices and clicked link on all to make sure it opened the tab in another page
 
 ## Known bugs
 
@@ -323,13 +328,40 @@ Seems to happen a lot less since new navbar was added but if it happen a simple 
 ii.  Another known bug was the CSS in the project not been applied to the whole project,
 to get around this you have to kill gitpod with the command "pkill-python3" and restart the workspace and code will return to normal.
 
+iii. On the w33 validator it has come to a error on my form within a form from line 64 to 84 of the contact.html page,
+ there is another form within however after replacing it with inputs and moving around the elements
+I can not find a solution which allows me to have the same submit and correct contact form as the one in this project.
+The terminal does not recgognise is as a error and the contact form works better with it so I thats why I have it down as a bug.
 
 # Deployment
+To run my code on Github pages do as follows
 
+1. Open up your Github and navigate to your repository.
+
+2. Under the Repository section click settings.
+
+3. Locate Git hub pages by scrolling down and underneath it click the drop-down menu to select a folder for your publishing source.
+
+4. Click save and locate the link under the same section and click into the site.
 
 ## Run code Locally
+#### To run my code locally follow these steps:
 
-To run my code locally 
+1. Log in to GitHub and locate the GitHub Repository
+
+2. Under the repo name click Clone.
+
+3. To clone a copy of the repo using HTTPS, copy the link under "Clone with HTTPS".
+
+4. Using your IDE of choice open up your preferred terminal.
+
+5. Navigate to your desired file location.
+
+6. Copy the link and input it into your terminal to clone my project.
+
+#### You can get more fo this information in more detail here: (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+
 
 # Credits
 ## Content 
@@ -357,7 +389,10 @@ Used also the layout for my navbars throughout the project and lastly the column
 ## Acknowledgements
 
 
-I would like to thank firstly the code institute tutors, student care and my mentor Dick! Last but not least Code institute without them this would not have been possible so many thanks.
+I would like to thank firstly the code institute tutors,
+ student care and my mentor Dick!
+ For his patience and time with me.
+  Last but not least Code institute without them this would not have been possible so many thanks.
 
 
 
