@@ -208,6 +208,14 @@ c. If a frequent user wants to suggest new ideas or features they can contact th
 
 
 
+#### Screenshot to user stories here: https://github.com/mackey123/Milestone-project/issues/1#issue-851861900
+ 
+ https://github.com/mackey123/Milestone-project/issues/2#issue-851866513
+
+
+
+
+
 ## Testing code
 
 During the course of creating this project I had to test very often.
@@ -221,9 +229,9 @@ b. I would then open a W3 Validator.
 
 c. Copy and the paste the code I had into the direct input.
 
-i. This would give me any errors or code that was invalid.
+d. This would give me any errors or code that was invalid.
 
-ii. I would then correct the invalid code and put the code again to make sure there were no errors.
+e. I would then correct the invalid code and put the code again to make sure there were no errors.
 
 
 
@@ -277,11 +285,11 @@ This project is responsive on a all types of screens and has been tested for all
 
 To test its responsiveness I would do it in the following way.
 
-i. First open up Google tools by clicking the three dots in the top right corner of the page.
+i.  First open up Google tools by clicking the three dots in the top right corner of the page.
 
-ii. I would then click on a mobile or tablet device and begin to browse through the website as normal.
+ii.  I would then click on a mobile or tablet device and begin to browse through the website as normal.
 
-iii. I would then repeat this process on all devices on inspect tools and go through the whole site taking part in all the interactions to make sure they performed well.
+iii.  I would then repeat this process on all devices on inspect tools and go through the whole site taking part in all the interactions to make sure they performed well.
 
 ## Changes made
 
@@ -294,7 +302,7 @@ To fix this I changed the font size to a percentage rather then a px value. You 
 Some code or features had to be tested quite regularly to make sure it was always working well.
 
 
-1.Contact form
+#### 1.Contact form
 
 i. The contact form had to be tested after every new feature was added or taken away
 
@@ -305,34 +313,37 @@ iii. I then had to repeat this on the mobile device and so on using the google i
 
 
 
-2. Image of me on About page
+#### 2. Image of me on About page
 
-i. Originally had a square image in top left but was not responsive
+i.  Originally had a square image in top left but was not responsive
 
-ii. Had to add different styles to allow it to sit in the center and to become a avatar image
+ii.   Had to add different styles to allow it to sit in the center and to become a avatar image
 
-iii. Tested on google tools on all devices to make sure it came out correctly
+iii.  Tested on google tools on all devices to make sure it came out correctly
 
 
-3. Navbar and CV download button
+#### 3. Navbar and CV download button
 
-i. Had trouble turning it into a button, had to re add the anchor links and placemnet of tags
+i.    Had trouble turning it into a button, had to re add the anchor links and placemnet of tags
 
-ii. Had to add a li tag instead of p as it was not suitable
+ii.   Had to add a li tag instead of p as it was not suitable
 
-iii. Tested on all devices and clicked link on all to make sure it opened the tab in another page
+iii.  Tested on all devices and clicked link on all to make sure it opened the tab in another page
 
 ## Known bugs
 
 i. 
+ 
  Known bug from start of the project was sometimes having to refresh the page when google dev tools were opened,
 Seems to happen a lot less since new navbar was added but if it happen a simple refresh can fix it.
 
 ii. 
+ 
  Another known bug was the CSS in the project not been applied to the whole project,
 to get around this you have to kill gitpod with the command "pkill-python3" and restart the workspace and code will return to normal.
 
 iii. 
+
 On the w33 validator it has come to a error on my form within a form from line 64 to 84 of the contact.html page,
  there is another form within however after replacing it with inputs and moving around the elements
 I can not find a solution which allows me to have the same submit and correct contact form as the one in this project.
