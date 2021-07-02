@@ -11,6 +11,18 @@ The website is only made in HTML and CSS at the moment but as my skills get bett
 
 
 
+## Wireframes 
+
+### For my wireframes I used Baslsamic Have a look here!
+
+[Balsamic](https://balsamiq.com/wireframes/?gclid=CjwKCAjwz_WGBhA1EiwAUAxIcfHzlRPZwCW4o_9CmP4ugB9RDe8NXhz44BW1ecE1MGJQW190BeZHOhoC8OoQAvD_BwE)
+
+![Main page](/images/ms1-wf-main.png)
+
+![tablet main page](/images/ms1-wf-tablet.png)
+
+![Mobile main page](/images/mobile-wf-ms1.png)
+
 # User stories
 
 ##  First Time User goals
