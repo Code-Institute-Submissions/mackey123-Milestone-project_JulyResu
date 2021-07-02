@@ -2,6 +2,11 @@
 
 /* Main Html index */
 
+
+.navbar-brand{
+    font-size: 30px;
+}
+
 .navbar-nav{
     font-size: 30px;
 }
