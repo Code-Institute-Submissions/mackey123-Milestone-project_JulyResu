@@ -3,6 +3,12 @@
 /* Main Html index */
 
 
+
+
+.nav{
+    color: cadetblue;
+}
+
 .navbar-brand{
     font-size: 30px;
 }
@@ -17,14 +23,11 @@ div a{
 
 ul li a{
     font-size: 40px;
-   
     
 }
 
 body {
     color: cadetblue;
-    
-    
 }
 
  .home-back{
@@ -58,8 +61,6 @@ li a h2{
     
 }
 
-
-
 li a h2:hover{
     color: rgb(116, 189, 192);
     background-color: rgb(241, 232, 232);
@@ -87,8 +88,6 @@ li a h2:hover{
 #cvstyles{
     text-decoration: none;
 }
-
-
 
 
 /* socials */

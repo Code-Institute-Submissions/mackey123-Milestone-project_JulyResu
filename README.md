@@ -31,7 +31,7 @@ The website is only made in HTML and CSS at the moment but as my skills get bett
 
 2.  I want to be able to easily access any more information on them through links.
 
-3.  As a first time user I want to be able to navigate and back out of this site easily and without delay, I want to be taken to a new page when I open a link.
+3.  As a first time user I want to be able to navigate and back out of this site easily and without delay.
 
 
 ## Return user goals
@@ -44,11 +44,12 @@ The website is only made in HTML and CSS at the moment but as my skills get bett
 
 ## Frequent user goals
 
-1.  As a frequent user I want to be able to see any changes made or new additions.
+1. As a frequent user I want to be able to see the colors easily from foreground to background.
 
-2.  As a frequent user I want to be able to request to get notifications if there is news or new deals.
+2.  As a frequent user I want to be taken to a new page when I open a link.
 
-3.  As a frequent user I want to be able to give feedback and submit my opinion to the makers or person who made the site.
+3.  As a frequent user I want to be able to give feedback and see what new features has been added.
+
 
 
 
@@ -153,7 +154,7 @@ There is also all four links to the persons socials which can be located on the 
 
 
 
-3.     As a first time user I want to be able to navigate and back out of this site easily and without delay, I want to be taken to a new page when I open a link.
+3.     As a first time user I want to be able to navigate and back out of this site easily and without delay.
 
 A.
 When you open any link throughout the portfoilio you will be taken to a new page.
