@@ -49,6 +49,7 @@ h1{
 .index{
     margin: 5px;
     padding: 5px;
+    text-align: center;
     
 }
 
@@ -99,7 +100,6 @@ li a h2:hover{
     font-weight: 600;
 }
 
-
 .foot{
     margin: 5px;
 }
@@ -132,7 +132,7 @@ li a h2:hover{
 }
 
 .cv:hover{
-    color: rgb(235, 190, 174);
+    
     text-decoration: none;
     
 }
