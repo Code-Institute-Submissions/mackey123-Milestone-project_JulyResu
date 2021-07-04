@@ -257,6 +257,11 @@ e. I would then correct the invalid code and put the code again to make sure the
 
 2. I had a duplicate Div closing tag on line 85 Which I removed. I also did this with a li element on line 92.
 
+## User testing 
+
+I had my sibling who has done some code in the past test my website, to do this I would send him a link to test on his laptop.
+I would also have him browse through my site in different view ports to test its abilities and to listen to what he thought about it.
+
 
 
 #### Contact page
@@ -361,6 +366,7 @@ On the w33 validator it has come to a error on my form within a form from line 6
  there is another form within however after replacing it with inputs and moving around the elements
 I can not find a solution which allows me to have the same submit and correct contact form as the one in this project.
 The terminal does not recognise is as a error and the contact form works better with it so , thats why I have it down as a bug.
+
 
 # Deployment
 To run my code on Github pages do as follows
