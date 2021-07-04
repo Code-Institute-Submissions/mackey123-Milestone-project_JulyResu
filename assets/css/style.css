@@ -3,21 +3,30 @@
 /* Main Html index */
 
 
-.nav{
-    color: cadetblue;
+
+nav .navbar-brand{
+    color: cadetblue !important;
+   
 }
+
 
 .navbar-brand{
     font-size: 30px;
-}
-
-.navbar-nav{
-    font-size: 30px;
-}
-
-div a{
     color: cadetblue;
+    
 }
+
+ .navbar-nav{
+    font-size: 30px;
+    color: cadetblue;
+   
+    
+}
+
+div .nav-item.nav-link{
+    color: cadetblue !important;
+}
+
 
 ul li a{
     font-size: 40px;
