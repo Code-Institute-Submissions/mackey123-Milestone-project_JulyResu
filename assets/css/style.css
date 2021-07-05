@@ -3,7 +3,7 @@
 /* Main Html index */
 
 nav .navbar-brand{
-    color: cadetblue !important;
+    color: rgb(95, 158, 160) !important;
    
 }
 nav{
@@ -11,15 +11,11 @@ nav{
     margin-left: 25%;
 }
 
-button.navbartoggler{
-    margin-left: 0 auto;
-}
 
 
 .navbar-brand{
     font-size: 40px;
     color: cadetblue;
-    font-display: bold;
     text-transform: uppercase;
  
 }
@@ -27,7 +23,6 @@ button.navbartoggler{
  .navbar-nav{
     font-size: 40px;
     color: cadetblue;
-    font-display: bold;
     text-transform: uppercase;
   
     
